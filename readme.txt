@@ -1,12 +1,18 @@
 Description: 
 
-This is a simple script to gather nat IP Pool statistic. It is raw and under development.
+This is a simple script to gather nat IP Pool statistics.
+
+Usage:
+
+$ python show-nat-ippool.py
 
 To Do:
 
-- Modularize
+# TODO #
+- Add command line args and user input
+- Add input validation
+- Add string output formatting
 - Add Date Time Stamps
-- Add User Input
 - Add File Output Options
 - Add Error Checking
 - Add Logging
